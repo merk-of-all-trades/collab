@@ -1,0 +1,9 @@
+//Sample collaboration
+
+#include <iostream>
+
+int main() {
+	std::cout << "Hello Owner" << std::endl; //Added line.
+
+	return 0;
+}
