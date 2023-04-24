@@ -4,6 +4,6 @@
 
 int main() {
 	std::cout << "Hello Owner" << std::endl; //Added line.
-
+	std::cout << "Hi Collaborator" << std::endl;
 	return 0;
 }
